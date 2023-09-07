@@ -37,7 +37,7 @@ class Balance extends Model
      */
     public function getAmountAttribute()
     {
-        return $this->attributes['amount'] / 100;
+        return $this->attributes['amount'];
     }
 
     /**
