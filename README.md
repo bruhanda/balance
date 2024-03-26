@@ -1,6 +1,7 @@
 # Laravel Balance
 
 Maintains a history of balance movements in the eloquent models. This simple package will keep track of the balance of your models. You can increase, decrease, reset and set the balance. It is also possible to check if a model has a positive balance or no balance.
+Laravel 11 supported
 
 
 ## Installation
